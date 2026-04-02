@@ -1,1 +1,1 @@
-# wdbl-project-assets
+Initial commit: Project WDBL structure
