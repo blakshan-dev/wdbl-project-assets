@@ -7,3 +7,5 @@
   
 - **Added: WDBL Brand Logo and Assets**
 
+- **Update: Proposed Site Architecture (Sub-directories)**
+
