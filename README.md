@@ -9,3 +9,4 @@
 
 - **Update: Proposed Site Architecture (Sub-directories)**
 
+- **Added: HTML Boilerplate for Tools**
