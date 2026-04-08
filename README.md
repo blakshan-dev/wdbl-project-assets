@@ -10,3 +10,5 @@
 - **Update: Proposed Site Architecture (Sub-directories)**
 
 - **Added: HTML Boilerplate for Tools**
+
+- **Update: Global CSS styles for WDBL**
