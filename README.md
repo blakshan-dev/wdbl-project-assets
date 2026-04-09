@@ -12,3 +12,5 @@
 - **Added: HTML Boilerplate for Tools**
 
 - **Update: Global CSS styles for WDBL**
+
+- **Review: Pre-deployment Checklist**
